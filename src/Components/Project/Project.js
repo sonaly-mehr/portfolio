@@ -35,7 +35,7 @@ const Project = () => {
                                 <img src={project2} alt="" />
                                 <p>This is a doctor portal website where any Patients can select a specific date and can take appointment on that date. Admin can view all the patients list also can see appointments for the day on a selected date</p>
                                 <div className="view-bttn">
-                                <a href="https://zealous-neumann-c42683.netlify.app/" target="_blank">View</a>
+                                <a href="https://elated-gates-bf687d.netlify.app/" target="_blank">View</a>
                                 </div>
                             </div>
                         </div>
