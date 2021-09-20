@@ -1,0 +1,70 @@
+.portfolio-sec{
+    text-align: left;
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+.portfolio-sec h6{
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 14px;
+    color: #929292;
+    margin-left: 80px;
+    position: relative;
+}
+.portfolio-sec h6::before{
+    content: '';
+    position: absolute;
+    background-color: #000;
+    width: 67px;
+    height: 3px;
+    left: -8%;
+    top: 6px;
+}
+.portfolio-sec h4.portfolio-header{
+    font-weight: 700;
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    text-transform: capitalize;
+    padding: 7px 0;
+    padding-bottom: 24px;
+}
+.portfolio-container{}
+.single-portfolio{
+    padding-top: 30px;
+}
+.single-portfolio img{
+    width: 100%;
+    height: 220px;
+}
+.single-portfolio p{
+    font-size: 16px;
+    line-height: 28px;
+    color: #8a8a8a;
+    font-family: 'Open Sans', sans-serif;
+    background: #ededed;
+    padding: 30px;
+    height: 200px;
+    font-weight: 600;
+}
+.view-bttn{text-align: center;}
+.single-portfolio a{
+    background: #0050FF;
+    display: inline-block;
+    padding: 10px 35px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 12px;
+    margin-top: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+/*=====Responsive======*/
+
+@media only screen and (max-width:479px){
+    .container{max-width:300px;}
+    .portfolio-sec h6::before {left: -42%;}
+    .portfolio-sec h4 {font-size: 26px;}
+    .portfolio-sec p {font-size: 14px;line-height: 26px;width: 100%;}
+    .portfolio-sec h6 { font-size: 12px;}
+    .single-portfolio p{height: 250px}
+}

@@ -1,0 +1,15 @@
+@media (min-width: 992px) and (max-width:1200px){
+    .container{max-width:970px;}
+    .header-logo{margin-right: 0;}
+    .header-logo h4{font-size: 22px;}
+    .header-logo h4 span{font-size: 14px;}
+    .menu ul { margin-right: 10px;}
+  }
+
+@media only screen and (max-width:479px){
+    .container{max-width:300px;}
+    .header-logo h4 {font-size: 15px}
+    .header-logo h4 span {font-size: 10px;}
+    .svg-inline--fa {font-size: 14px;}
+    .header-logo {margin-right: 74px;}
+}

@@ -1,0 +1,127 @@
+.resume-section{
+    background-color: #F3F3F5;
+}
+.resume-intro{
+    display: flex;
+    background: #fff;
+    padding: 50px;
+    justify-content: space-between;
+}
+.resume-img img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+.intro{
+    text-align: left;
+    margin-right: 31%;
+    margin-top: 5%;
+}
+.intro h1{
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 52px;
+    line-height: 50px;
+    font-weight: 600;
+}
+.intro h6{
+    text-transform: capitalize;
+    font-weight: 600;
+    color: #86888F;
+    font-size: 19px;
+}
+.information{
+    margin-top: 5%;
+}
+.information span{}
+.information span.info-span{
+    width: 100px;
+    display: inline-block;
+    margin-bottom: 7px;
+    font-weight: 600
+}
+.resume-details{
+    background-color: #fff;
+    margin-top: 20px;
+    text-align: left;
+}
+.resume-details h2{
+    font-family: 'Titillium Web', sans-serif;
+    background: #1BC9E4;
+    color: #fff;
+    width: 16%;
+    display: inline-block;
+    text-align: center;
+    height: 8vh;
+    font-size: 24px;
+    margin-bottom: 50px;
+    padding-top: 15px;
+    font-weight: 600;
+}
+.resume-objective{
+    margin-left: 80px;
+}
+.resume-objective h4{
+    background: #F3F3F5;
+    width: 50%;
+    padding: 10px 35px;
+    font-size: 18px;
+    margin-top: 35px;
+    font-family: 'Poppins', sans-serif;
+}
+.resume-objective p{
+    width: 80%;
+    padding-top: 28px;
+    padding-bottom: 32px;
+    color: #86888F;
+    font-size: 20px;
+    line-height: 26px;
+}
+.education{
+    position: relative;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.education::before{
+    content: '';
+    position: Absolute;
+    background-color: #3A66E6;
+    left: 0%;
+    width: 3px;
+    height: 40px;
+    top: 34%;
+}
+.education h6{
+    font-family: 'Poppins', sans-serif;;
+    margin-left: 30px;
+    margin-bottom: 2px;
+}
+.education span{
+    margin-left: 30px;
+    color: #86888F;
+    font-size: 18px;
+    margin-top: -2px;
+    display: inline-block;
+}
+.skills{
+    padding-top: 40px;
+    padding-bottom: 35px;
+}
+.skills h6{
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.skills h6 span{
+    font-size: 19px;
+    font-weight: 400;
+}
+.language{
+    padding-bottom: 90px;
+}
+.language span{
+    margin-right: 20%;
+    margin-top: 13px;
+    display: inline-block;
+    font-size: 18px;
+    margin-left: 10px;
+}

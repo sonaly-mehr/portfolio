@@ -1,0 +1,147 @@
+.banner-section{
+    position: relative;
+}
+.banner-wrap{
+    display: flex;
+}
+.banner-left{
+    width: 40%;
+    background-color: #E6DACE;
+}
+.banner-right{
+    width: 60%;
+    text-align: left;
+    height: 100vh;
+    transform: translateY(21%);
+    padding-left: 5%;
+    padding-top: 130px;
+}
+.banner-right h1{
+    font-size: 80px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+.banner-right h6{
+    font-size: 30px;
+    color: #000;
+    padding-top: 8px;
+    padding-bottom: 23px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    
+}
+.resume-project-btn{
+    padding-bottom: 40px;
+}
+.resume-project-btn a{
+    border: none;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 7px 40px;
+    border-radius: 15px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.resume-project-btn a.resume{
+    color: #fff;
+    margin-right: 16px;
+    background: #0050FF;
+}
+.resume-project-btn a.resume:hover{
+    background: #fff;
+    border: 1px solid #0050FF;
+    transition: .3s;
+    color: #0050FF;
+}
+
+.resume-project-btn a.project{
+    background: #fff;
+    border: 1px solid #0050FF;
+    color: #0050FF;
+}
+.resume-project-btn a.project:hover{
+    background: #0050FF;
+    border: 1px solid #fff;
+    transition: .3s;
+    color:#fff
+}
+.banner-right p{
+    font-size: 20px;
+    color: #000;
+    font-family: 'Rambla', sans-serif;
+}
+.introduction{
+    background: #F4ECE6;
+    width: 27%;
+    position: absolute;
+    top: 8%;
+    left: 16%;
+    box-shadow: -10px 35px 14px #C8BEB4;
+    text-align: center;
+    height: 470px;
+}
+.introduction img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-top:30px;
+}
+.introduction h4{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    padding: 33px 0;
+    font-size: 29px;
+    line-height: 33px;
+    position: relative;
+}
+.introduction h4:before{
+    content: '';
+    position: absolute;
+    background-color: #0050FF;
+    width: 60px;
+    height: 2px;
+    top: 90%;
+    left: 43%;
+}
+.introduction h5{
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+.social-links{
+    background-color: #fff;
+}
+.social-links ul{
+    display: flex;
+    margin-top: 26px;
+    padding:12px 0;
+    justify-content: center;
+}
+.social-links ul li{
+    list-style: none;
+    margin: 0 12px;
+}
+.social-links ul li a{
+    text-decoration: none;
+    color:#000
+}
+
+
+@media only screen and (max-width:479px){
+    .container{max-width:300px;}
+    .introduction {width: 40%;height: 35vh;top: 6%;left: 4%;box-shadow: -5px 7px 13px -2px #C8BEB4;}
+    .introduction img {width: 100px;height: 100px;}
+    .introduction h4 {font-size: 16px;margin-top: -21px;line-height: 20px;}
+    .introduction h4::before {top: 80%;left: 27%;}
+    .introduction h5 {font-size: 9px;margin-top: -20px;margin-left: 6px;}
+    .banner-right {padding-left: 8%; padding-top: 0;}
+    .banner-right p {font-size: 17px;}
+    .banner-right h1 {font-size: 41px;}
+    .banner-right h6 {font-size: 24px; margin-bottom: 0;}
+    .resume-project-btn a {padding: 5px 27px;margin-bottom: 10px;}
+    .social-links ul li {margin: 0 9px;}
+    .social-links ul {padding: 0px 0;margin-top: 25px;}
+    .banner-right p {width: 94%;margin-top: -24px;}
+    .banner-left {height: 80vh;}
+    .banner-left {height: 60vh;}
+}

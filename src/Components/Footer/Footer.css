@@ -1,0 +1,9 @@
+.footer-sec{
+    background: #000;
+    padding:20px 0;
+    color:#fff;
+    text-align: center;
+}
+.footer-sec p{
+    font-size: 14px;
+}
