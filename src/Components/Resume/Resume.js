@@ -11,8 +11,8 @@ const Resume = () => {
                         <img src={portfolio} alt="" />
                     </div>
                     <div class="intro">
-                        <h1>Sonaly <br/> Akter</h1>
-                        <h6>Junior web developer</h6>
+                        <h1>Sonaly <br/> Akther</h1>
+                        <h6>Fullstack web developer</h6>
                     </div>
                     <div class="information">
                         <span class="info-span">Name: </span>

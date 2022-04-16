@@ -11,7 +11,7 @@ const Header = () => {
                 <div class="row">
                     <div class="col-md-4 col-12">
                         <div class="header-logo">
-                            <h4><FontAwesomeIcon icon={faSquareFull}></FontAwesomeIcon> Sonaly Akter /<span> web developer</span></h4>
+                            <h4><FontAwesomeIcon icon={faSquareFull}></FontAwesomeIcon> Sonaly Akther /<span> web developer</span></h4>
                         </div>
                     </div>
                     <div class="col-md-6 offset-md-2 col-12">

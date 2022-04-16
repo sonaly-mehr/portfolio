@@ -16,8 +16,8 @@ const About = () => {
                 <div class="row">
                     <div class="col-md-7">
                         <div class="about-me" data-aos="fade-up" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
-                            <h4>I help you to make beauiful websites</h4>
-                            <p>I am a junior full stack web developer. Currenty i am pursuing my Bsc in CSE at American International University - Bangladesh. Talking about my strengths &amp; skills, I am innovative, hardworking and quick learner. Seeking a responsible position to use my abilities and skill effectively and efficiently.</p>
+                            <h4>I help you to build proffesional websites</h4>
+                            <p>I am a junior full stack web developer. I have completed my Bsc in Computer Science and Engineering at American International University - Bangladesh. Talking about my strengths &amp; skills, I am innovative, hardworking and quick learner. Seeking a responsible position to use my abilities and skill effectively and efficiently.</p>
                             <a href={resume} download="resume.pdf">Download Resume</a>
                         </div>
                     </div>

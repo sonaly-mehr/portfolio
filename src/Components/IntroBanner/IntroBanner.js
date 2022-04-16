@@ -13,7 +13,7 @@ const IntroBanner = () => {
                 <div class="banner-left">
                     <div class="introduction" data-aos="fade-right" data-aos-easing="ease-out-cubic" data-aos-duration="1000">
                         <img src={profile} alt="" class="img img-fluid" />
-                        <h4>Sonaly <br /> Akter</h4>
+                        <h4>Sonaly <br /> Akther</h4>
                         <h5>Web Developer</h5>
                         <div class="social-links">
                             <ul>

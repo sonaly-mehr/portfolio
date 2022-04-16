@@ -3,6 +3,7 @@ import './Project.css';
 import project1 from '../../img/gym.22f4c0ee.png';
 import project2 from '../../img/project2.PNG';
 import project3 from '../../img/project3.PNG';
+import project4 from '../../img/commerce-cart.png';
 
 const Project = () => {
     return (
@@ -12,6 +13,15 @@ const Project = () => {
                 <h4 class="portfolio-header">Projects</h4>
                 <div class="portfolio-container">
                     <div class="row">
+                    <div class="col-md-4">
+                            <div class="single-portfolio" data-aos="zoom-in-up" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
+                                <img src={project4} alt="" />
+                                <p>An E-commerce website where any user can view product, search product, buy products and make purchase for the product</p>
+                                <div className="view-bttn">
+                                <a href="https://commerce-cart-shop.netlify.app/" target="_blank">View</a>
+                            </div>
+                            </div>
+                        </div>
                         <div class="col-md-4">
                             <div class="single-portfolio" data-aos="zoom-in-up" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                                 <img src={project1} alt="" />
