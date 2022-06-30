@@ -122,23 +122,23 @@ const ProjectTab = () => {
                             <div class="single-portfolio" data-aos="zoom-in-up" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                                 <img src={design2} alt="" className='design_img'/>
                                 <div className="view-bttn">
-                                <a href="https://thirsty-hermann-9697cb.netlify.app/" target="_blank">View</a>
+                                <a href="https://bizness-website.netlify.app/" target="_blank">View</a>
                             </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="single-portfolio" data-aos="zoom-in-up" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
-                                <img src={design4} alt="" className='design_img'/>
-                                <div className="view-bttn">
-                                <a href="https://tender-galileo-68f243.netlify.app/" target="_blank">View</a>
-                                </div>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="single-portfolio" data-aos="zoom-in-up" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                                 <img src={design3} alt="" className='design_img'/>
                                 <div className="view-bttn">
-                                <a href="https://elated-gates-bf687d.netlify.app/" target="_blank">View</a>
+                                <a href="https://cude-website.netlify.app/" target="_blank">View</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="single-portfolio" data-aos="zoom-in-up" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
+                                <img src={design4} alt="" className='design_img'/>
+                                <div className="view-bttn">
+                                <a href="https://creative-website-template.netlify.app/" target="_blank">View</a>
                                 </div>
                             </div>
                         </div>
@@ -146,7 +146,7 @@ const ProjectTab = () => {
                             <div class="single-portfolio" data-aos="zoom-in-up" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                                 <img src={design5} alt="" className='design_img'/>
                                 <div className="view-bttn">
-                                <a href="https://elated-gates-bf687d.netlify.app/" target="_blank">View</a>
+                                <a href="https://vacation-website.netlify.app/" target="_blank">View</a>
                                 </div>
                             </div>
                         </div>
