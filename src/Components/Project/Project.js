@@ -1,9 +1,11 @@
 import React from 'react';
 import './Project.css';
-import project1 from '../../img/gym.22f4c0ee.png';
-import project2 from '../../img/project2.PNG';
-import project3 from '../../img/project3.PNG';
-import project4 from '../../img/commerce-cart.png';
+import ProjectTab from './ProjectTab';
+
+// import project1 from '../../img/gym.22f4c0ee.png';
+// import project2 from '../../img/project2.PNG';
+// import project3 from '../../img/project3.PNG';
+// import project4 from '../../img/commerce-cart.png';
 
 const Project = () => {
     return (
@@ -11,7 +13,8 @@ const Project = () => {
             <div class="container">
                 <h6>Showcase</h6>
                 <h4 class="portfolio-header">Projects</h4>
-                <div class="portfolio-container">
+                <ProjectTab />
+                {/* <div class="portfolio-container">
                     <div class="row">
                     <div class="col-md-4">
                             <div class="single-portfolio" data-aos="zoom-in-up" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
@@ -50,7 +53,7 @@ const Project = () => {
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> */}
             </div>
         </div>
     );
