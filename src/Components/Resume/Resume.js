@@ -54,9 +54,7 @@ const Resume = () => {
               <h6>
                 Comfortable:{" "}
                 <span>
-                  Full Stack and Skilled Web Developer to build a career which
-                  enhance my skill set in web technologies to develop and
-                  implement solutions to meet business needs
+                Node.js, MongoDB, Express.js, Jquery, ES6, Redux.js , Context API
                 </span>
               </h6>
               <h6>
