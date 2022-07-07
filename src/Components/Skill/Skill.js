@@ -19,8 +19,8 @@ const Skill = () => {
                                 <h5>JavaScript</h5>
                                 <div style={{display: "initial", alignItems: "initial"}}>
                                     <div style={{height: "15px", background: "rgb(224, 224, 222)", borderRadius: "50px", width: "100%"}}>
-                                        <div style={{height: "15px", width: "60%", backgroundColor: "rgb(106, 27, 154)", transition: "width 1s ease-in-out 0s", borderRadius: "inherit", display: "flex", alignItems: "center", justifyCo: "flex-end"}}>
-                                            <span style={{padding: "335px", color: "rgb(255, 255, 255)", fontWeight: "bold", fontSize: "15px", display: "initial"}}>60%</span>
+                                        <div style={{height: "15px", width: "70%", backgroundColor: "rgb(106, 27, 154)", transition: "width 1s ease-in-out 0s", borderRadius: "inherit", display: "flex", alignItems: "center", justifyCo: "flex-end"}}>
+                                            <span style={{padding: "335px", color: "rgb(255, 255, 255)", fontWeight: "bold", fontSize: "15px", display: "initial"}}>70%</span>
                                         </div>
                                     </div>
                                 </div>
@@ -29,8 +29,8 @@ const Skill = () => {
                                 <h5>React.js</h5>
                                 <div style={{display: "initial", alignItems: "initial"}}>
                                     <div style={{height: "15px", background: "rgb(224, 224, 222)", borderRadius: "50px", width: "100%"}}>
-                                        <div style={{height: "15px", width: "80%", backgroundColor: "rgb(106, 27, 154)", transition: "width 1s ease-in-out 0s", borderRadius: "inherit", display: "flex", alignItems: "center", justifyCo: "flex-end"}}>
-                                            <span style={{padding: "91%", color: "rgb(255, 255, 255)", fontWeight: "bold", fontSize: "15px", display: "initial"}}>80%</span>
+                                        <div style={{height: "15px", width: "85%", backgroundColor: "rgb(106, 27, 154)", transition: "width 1s ease-in-out 0s", borderRadius: "inherit", display: "flex", alignItems: "center", justifyCo: "flex-end"}}>
+                                            <span style={{padding: "91%", color: "rgb(255, 255, 255)", fontWeight: "bold", fontSize: "15px", display: "initial"}}>85%</span>
                                         </div>
                                     </div>
                                 </div>
@@ -39,8 +39,8 @@ const Skill = () => {
                                 <h5>Html</h5>
                                 <div style={{display: "initial", alignItems: "initial"}}>
                                     <div style={{height: "15px", background: "rgb(224, 224, 222)", borderRadius: "50px", width: "100%"}}>
-                                        <div style={{height: "15px", width: "85%", backgroundColor: "rgb(106, 27, 154)", transition: "width 1s ease-in-out 0s", borderRadius: "inherit", display: "flex", alignItems: "center", justifyCo: "flex-end"}}>
-                                            <span style={{padding: "91%", color: "rgb(255, 255, 255)", fontWeight: "bold", fontSize: "15px", display: "initial"}}>85%</span>
+                                        <div style={{height: "15px", width: "95%", backgroundColor: "rgb(106, 27, 154)", transition: "width 1s ease-in-out 0s", borderRadius: "inherit", display: "flex", alignItems: "center", justifyCo: "flex-end"}}>
+                                            <span style={{padding: "91%", color: "rgb(255, 255, 255)", fontWeight: "bold", fontSize: "15px", display: "initial"}}>95%</span>
                                         </div>
                                     </div>
                                 </div>
@@ -59,8 +59,8 @@ const Skill = () => {
                                 <h5>BootStrap</h5>
                                 <div style={{display: "initial", alignItems: "initial"}}>
                                     <div style={{height: "15px", background: "rgb(224, 224, 222)", borderRadius: "50px", width: "100%"}}>
-                                        <div style={{height: "15px", width: "60%", backgroundColor: "rgb(106, 27, 154)", transition: "width 1s ease-in-out 0s", borderRadius: "inherit", display: "flex", alignItems: "center", justifyCo: "flex-end"}}>
-                                            <span style={{padding: "88%", color: "rgb(255, 255, 255)", fontWeight: "bold", fontSize: "15px", display: "initial"}}>60%</span>
+                                        <div style={{height: "15px", width: "80%", backgroundColor: "rgb(106, 27, 154)", transition: "width 1s ease-in-out 0s", borderRadius: "inherit", display: "flex", alignItems: "center", justifyCo: "flex-end"}}>
+                                            <span style={{padding: "88%", color: "rgb(255, 255, 255)", fontWeight: "bold", fontSize: "15px", display: "initial"}}>80%</span>
                                         </div>
                                     </div>
                                 </div>
@@ -69,8 +69,8 @@ const Skill = () => {
                                 <h5>Nodejs</h5>
                                 <div style={{display: "initial", alignItems: "initial"}}>
                                     <div style={{height: "15px", background: "rgb(224, 224, 222)", borderRadius: "50px", width: "100%"}}>
-                                        <div style={{height: "15px", width: "60%", backgroundColor: "rgb(106, 27, 154)", transition: "width 1s ease-in-out 0s", borderRadius: "inherit", display: "flex", alignItems: "center", justifyCo: "flex-end"}}>
-                                            <span style={{padding: "88%", color: "rgb(255, 255, 255)", fontWeight: "bold", fontSize: "15px", display: "initial"}}>60%</span>
+                                        <div style={{height: "15px", width: "65%", backgroundColor: "rgb(106, 27, 154)", transition: "width 1s ease-in-out 0s", borderRadius: "inherit", display: "flex", alignItems: "center", justifyCo: "flex-end"}}>
+                                            <span style={{padding: "88%", color: "rgb(255, 255, 255)", fontWeight: "bold", fontSize: "15px", display: "initial"}}>65%</span>
                                         </div>
                                     </div>
                                 </div>
@@ -79,8 +79,8 @@ const Skill = () => {
                                 <h5>Expressjs</h5>
                                 <div style={{display: "initial", alignItems: "initial"}}>
                                     <div style={{height: "15px", background: "rgb(224, 224, 222)", borderRadius: "50px", width: "100%"}}>
-                                        <div style={{height: "15px", width: "60%", backgroundColor: "rgb(106, 27, 154)", transition: "width 1s ease-in-out 0s", borderRadius: "inherit", display: "flex", alignItems: "center", justifyCo: "flex-end"}}>
-                                            <span style={{padding: "88%", color: "rgb(255, 255, 255)", fontWeight: "bold", fontSize: "15px", display: "initial"}}>60%</span>
+                                        <div style={{height: "15px", width: "65%", backgroundColor: "rgb(106, 27, 154)", transition: "width 1s ease-in-out 0s", borderRadius: "inherit", display: "flex", alignItems: "center", justifyCo: "flex-end"}}>
+                                            <span style={{padding: "88%", color: "rgb(255, 255, 255)", fontWeight: "bold", fontSize: "15px", display: "initial"}}>65%</span>
                                         </div>
                                     </div>
                                 </div>
@@ -90,7 +90,7 @@ const Skill = () => {
                                 <div style={{display: "initial", alignItems: "initial"}}>
                                     <div style={{height: "15px", background: "rgb(224, 224, 222)", borderRadius: "50px", width: "100%"}}>
                                         <div style={{height: "15px", width: "80%", backgroundColor: "rgb(106, 27, 154)", transition: "width 1s ease-in-out 0s", borderRadius: "inherit", display: "flex", alignItems: "center", justifyCo: "flex-end"}}>
-                                            <span style={{padding: "88%", color: "rgb(255, 255, 255)", fontWeight: "bold", fontSize: "15px", display: "initial"}}>60%</span>
+                                            <span style={{padding: "88%", color: "rgb(255, 255, 255)", fontWeight: "bold", fontSize: "15px", display: "initial"}}>80%</span>
                                         </div>
                                     </div>
                                 </div>
