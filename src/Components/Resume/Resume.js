@@ -54,12 +54,12 @@ const Resume = () => {
               <h6>
                 Comfortable:{" "}
                 <span>
-                Node.js, MongoDB, Express.js, Jquery, ES6, Redux.js , Context API
+                Node.js, MongoDB, Express.js, Jquery, ES6, Redux, Context API
                 </span>
               </h6>
               <h6>
                 Familiar:{" "}
-                <span>TypeScript, React Native, Material UI, SASS</span>
+                <span>TypeScript, React Native, Material UI, SASS, Tailwind css</span>
               </h6>
               <h6>
                 Tools:{" "}

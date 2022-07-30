@@ -8,7 +8,7 @@ import './Project.css'
 import project1 from '../../img/gym.22f4c0ee.png';
 import project2 from '../../img/project2.PNG';
 import project3 from '../../img/project3.PNG';
-import project4 from '../../img/commerce-cart.png';
+import project4 from '../../img/ecommerce.PNG';
 import design1 from '../../img/design1.PNG'
 import design2 from '../../img/design2.PNG'
 import design3 from '../../img/design3.PNG'
@@ -73,16 +73,7 @@ const ProjectTab = () => {
                                 <img src={project4} alt="" />
                                 <p>An E-commerce website where any user can view product, search product, buy products and make purchase for the product</p>
                                 <div className="view-bttn">
-                                <a href="https://commerce-cart-shop.netlify.app/" target="_blank">View</a>
-                            </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="single-portfolio" data-aos="zoom-in-up" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
-                                <img src={project1} alt="" />
-                                <p>This project is about gym training service where user can enrol services, give feedback. Admin can add or delete services, or make a new admin</p>
-                                <div className="view-bttn">
-                                <a href="https://thirsty-hermann-9697cb.netlify.app/" target="_blank">View</a>
+                                <a href="https://ecommerce-shop-webapp.netlify.app/" target="_blank">View</a>
                             </div>
                             </div>
                         </div>
@@ -102,6 +93,15 @@ const ProjectTab = () => {
                                 <div className="view-bttn">
                                 <a href="https://elated-gates-bf687d.netlify.app/" target="_blank">View</a>
                                 </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="single-portfolio" data-aos="zoom-in-up" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
+                                <img src={project1} alt="" />
+                                <p>This project is about gym training service where user can enrol services, give feedback. Admin can add or delete services, or make a new admin</p>
+                                <div className="view-bttn">
+                                <a href="https://thirsty-hermann-9697cb.netlify.app/" target="_blank">View</a>
+                            </div>
                             </div>
                         </div>
                     </div>
